@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">Connect with me:</h3>
+
 [![https://www.facebook.com/xuanhung.ptithcm](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/xuanhung.ptithcm/)
+
 [![https://www.facebook.com/xuanhung.ptithcm](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:xuanhungptithcm@gmail.com)
